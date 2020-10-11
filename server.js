@@ -24,7 +24,8 @@ const whiteList		= [
 	'http://localhost:8080',
 	'http://192.168.1.30:8080',
 	'http://192.168.1.31:8080',
-	'http://192.168.1.32:8080'
+	'http://192.168.1.32:8080',
+	'https://mathius-kormasela.netlify.app'
 ];
 
 // init cors option
