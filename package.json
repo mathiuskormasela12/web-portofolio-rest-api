@@ -1,0 +1,33 @@
+{
+  "name": "rest-api-web-portofolio",
+  "version": "1.0.0",
+  "description": "Restfull API for Web Porttofolio with MEVN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "Website",
+    "Portofolio",
+    "Programming",
+    "Node",
+    "Js",
+    "Vue",
+    "Js",
+    "MySQL",
+    "Express",
+    "Js"
+  ],
+  "author": "Mathius",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  }
+}
